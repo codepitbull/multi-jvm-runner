@@ -1,4 +1,4 @@
-package de.codeptibull.multijvm;
+package de.codepitbull.multijvm;
 
 import java.io.BufferedReader;
 import java.io.IOException;

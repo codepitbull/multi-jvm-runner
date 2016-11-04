@@ -1,4 +1,4 @@
-package de.codeptibull.maven.multijvm.vertx;
+package de.codepitbull.maven.multijvm.vertx;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;

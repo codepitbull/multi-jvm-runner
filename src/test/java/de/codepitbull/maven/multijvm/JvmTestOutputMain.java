@@ -1,4 +1,4 @@
-package de.codeptibull.maven.multijvm;
+package de.codepitbull.maven.multijvm;
 
 /**
  * The main method in this class will enter an endless loop to print "TICK".

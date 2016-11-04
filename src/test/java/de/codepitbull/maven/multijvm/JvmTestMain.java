@@ -1,4 +1,4 @@
-package de.codeptibull.maven.multijvm;
+package de.codepitbull.maven.multijvm;
 
 /**
  * After starting the main-emthod will print "STARTED" and exit.

@@ -1,6 +1,6 @@
-package de.codeptibull.maven.multijvm.vertx;
+package de.codepitbull.maven.multijvm.vertx;
 
-import de.codeptibull.multijvm.JvmProcess;
+import de.codepitbull.multijvm.JvmProcess;
 import io.vertx.core.Vertx;
 import io.vertx.core.VertxOptions;
 import org.junit.Test;

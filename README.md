@@ -18,7 +18,7 @@ Check out and do ```mvn clean install```
 Add the dependency to your project:
 ```xml
 <dependency>
-    <groupId>de.codeptibull</groupId>
+    <groupId>de.codepitbull</groupId>
     <artifactId>multi-jvm-runner</artifactId>
     <version>1.0-SNAPSHOT</version>
     <scope>test</test>
@@ -27,7 +27,7 @@ Add the dependency to your project:
 
 In your test spawn the process:
 ```java
-import de.codeptibull.maven.multijvm.JvmProcess
+import de.codepitbull.maven.multijvm.JvmProcess
 
 JvmProcess proc = JvmProcess.builder().addCurrentClasspath().mainClass(JvmTest.class.getName()).build();
 

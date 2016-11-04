@@ -1,4 +1,4 @@
-package de.codeptibull.maven.multijvm;
+package de.codepitbull.maven.multijvm;
 
 /**
  * Calling the main-emthod in this class results in a RuntimeException.

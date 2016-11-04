@@ -1,4 +1,4 @@
-package de.codeptibull.maven.multijvm.vertx;
+package de.codepitbull.maven.multijvm.vertx;
 
 import io.vertx.core.Vertx;
 import io.vertx.core.VertxOptions;

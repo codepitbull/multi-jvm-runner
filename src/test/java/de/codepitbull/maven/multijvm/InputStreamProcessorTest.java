@@ -1,6 +1,6 @@
-package de.codeptibull.maven.multijvm;
+package de.codepitbull.maven.multijvm;
 
-import de.codeptibull.multijvm.InputStreamProcessor;
+import de.codepitbull.multijvm.InputStreamProcessor;
 import org.junit.Test;
 
 import java.io.*;
