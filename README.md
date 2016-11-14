@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/codepitbull/multi-jvm-runner.svg?branch=master)](https://travis-ci.org/codepitbull/multi-jvm-runner)
+
 #Multi-Jvm 
 This projects provides a few helper classes to allow easy creation and 
 destruction of multiple JVMs from inside an integration test.
